@@ -1,0 +1,2 @@
+# corsu
+discord bot stuff
